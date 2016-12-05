@@ -17,6 +17,7 @@
     "url": "https://github.com/bruceisyoung/TicTacToeSprint/issues"
   },
   "dependencies": {
+    "express": "^4.14.0",
     "react": "^15.3.2"
   },
   "devDependencies": {}
