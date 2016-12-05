@@ -1,6 +1,6 @@
 // build an board function, which is used to generate an empty board;
 
-var board = function(n) {
+var Board = function(n) {
   n = n || 3;
   var gridArr = [];
 
