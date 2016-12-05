@@ -1,9 +1,11 @@
 {
-  "name": "Tic Tac Toe",
+  "name": "TicTacToe",
   "version": "1.0.0",
   "description": "Tic Tac Toe sprint for job search sprints",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bruceisyoung/TicTacToeSprint"
@@ -18,6 +20,7 @@
   },
   "dependencies": {
     "express": "^4.14.0",
+    "path": "^0.12.7",
     "react": "^15.3.2"
   },
   "devDependencies": {}
