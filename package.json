@@ -1,0 +1,23 @@
+{
+  "name": "Tic Tac Toe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe sprint for job search sprints",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruceisyoung/TicTacToeSprint"
+  },
+  "keywords": [
+    "Tic Tac Toe"
+  ],
+  "author": "Sheng Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bruceisyoung/TicTacToeSprint/issues"
+  },
+  "dependencies": {
+    "react": "^15.3.2"
+  },
+  "devDependencies": {}
+}
